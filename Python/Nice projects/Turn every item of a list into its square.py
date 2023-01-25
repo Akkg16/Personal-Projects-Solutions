@@ -3,3 +3,5 @@ list_squared = []
 for i in list:
     list_squared.append(i**2)
 print(list_squared)
+
+
